@@ -1,3 +1,17 @@
+# 管理先を estechfy/public へ移行しました
+
+2026年11月12日、この専用リポジトリでの管理を終了しました。
+
+- 公開資料一覧: https://estechfy.github.io/public/fastplayer/compliance/
+- 管理用フォルダー: https://github.com/estechfy/public/tree/main/fastplayer/compliance
+- ホーム・規約・ロゴ等: https://estechfy.github.io/public/fastplayer/
+
+公開済み7版・21添付物は移行先へ同じSHA-256で複製済みです。新しい更新は `estechfy/public` だけで行います。このリポジトリは既存アプリのリンク互換性と過去の配布記録を保つため、読み取り専用で残します。
+
+---
+
+以下は旧リポジトリの説明です。新しい資料の取得・更新には上記の移行先を使用してください。
+
 # FastPlayer LGPL対応ソース・再リンクキット
 
 FastPlayerが同梱するFFmpeg・dav1dの対応ソース、ライセンス、同じ版の再リンクキットを公開する専用リポジトリです。
